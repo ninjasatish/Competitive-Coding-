@@ -1,5 +1,5 @@
-//This code is written by Satish
-//Read the Question prompt - description
+//This code is written by Satish Kumar
+//Read the Question prompt - description 
 
 # include <bits/stdc++.h>
 # define ll long long int
